@@ -6,20 +6,20 @@ Python Genetic Algorithm Library (pygalib)
 
 ## Installation 
 Use pip: 
-''' 
+```
 pip install pygalib 
-''' 
+```
 if you want to install from source code , you can download from pypi or simple use: 
-''' 
+```
 git clone https://github.com/lfzark/pygalib 
-''' 
+```
 then run: 
-''' 
+```
 python setup.py install 
-''' 
+``
 
 ## Example 
-'''python 
+```python 
 
 import pygalib 
 
@@ -39,6 +39,4 @@ n_generation = 1000
 
 print ga.run().chromosome 
 
-
-
-'''  
+```
