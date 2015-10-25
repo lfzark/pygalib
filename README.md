@@ -16,9 +16,10 @@ git clone https://github.com/lfzark/pygalib
 then run: 
 ```
 python setup.py install 
-``
+```
 
 ## Example 
+
 ```python 
 
 import pygalib 
