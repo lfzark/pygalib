@@ -1,6 +1,6 @@
 Python Genetic Algorithm Library (pygalib) 
 ======================= 
-### A simple and easy-to-use genetic algirthm library 
+### A simple and easy-to-use genetic algorithm library 
 
 ---- 
 
